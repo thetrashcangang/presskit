@@ -46,7 +46,7 @@ jobs:
         run: npm install -g presskit
         
       - name: Build Static Files
-        run: presskit build ./ --pretty-links --collapse-menu  --watch
+        run: presskit build ./ --pretty-links --collapse-menu
         
       - name: Upload a Build Artifact
         uses: actions/upload-pages-artifact@v1
