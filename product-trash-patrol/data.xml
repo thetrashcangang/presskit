@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+    <title>Trash Patrol</title>
+    <based-in>Salzburg, Austria</based-in>
+    <founding-date>2020</founding-date>
+    <website>https://portfolio.fh-salzburg.ac.at/projects/2022-trash-patrol</website>
+    <press-contact>
+      raccoon.squad@unterderbruecke.de
+    </press-contact>
+
+
+    <release-dates>
+        <release-date>04 February, 2022</release-date>
+    </release-dates>
+
+    <platforms>
+        <platform>
+            <name>Windows (Itch.io)</name>
+            <link>https://thetrashcangang.itch.io/trash-patrol</link>
+        </platform>
+        <platform>
+            <name>Windows (Steam)</name>
+            <link>https://store.steampowered.com/app/1969130/Trash_Patrol__Academic_Version/</link>
+        </platform>
+    </platforms>
+
+    <prices>
+        <price>
+            <currency></currency>
+            <value>FREE</value>
+        </price>
+    </prices>
+
+    <description>
+      Trash Patrol is a cooperative multiplayer game. 
+      You break into a house and steal predetermined items together with your raccoon friends.
+      Before you can trash the items into the trash can, you need to wash them and blow them dry, using the clouds nearby.
+      To get to higher locations, as well as during the washing and drying of the items, a friend needs to give you a hand.
+      Be carefull tough, the resident of this home is not amused to see you within their home. 
+    </description>
+
+    <histories>
+        <history>
+            <header>Creating the idea</header>
+            <text>
+                It all started with the desire to create a game about fat adorable thieves - raccoons. 
+                After a few brainstorming sessions, Hannah Flattinger refined her idea with Florian Jindra 
+                and began writing a treatment for what later became the game "Trash Patrol". 
+                It didn't take long to form a team after that, because it's hard to resist the urge to destory and steal
+                while also being fat and adorable. Together, Hannah Flattinger, Jan Mikusch, Tran Khiet Van Ho (Nessi), 
+                Marcell Tóth, Jeannette Schwalm, Kerstin Hofer and Lukas Schönwiese (Lou) named their team "The Trashcan Gang" 
+                and started with their mission, to create this colorful local coop multiplayer game.
+            </text>
+        </history>
+        <history>
+            <header>Preproduction</header>
+            <text>
+                One of the first things the team agreed upon was to always make sure that everyone is on the same page.
+                They set up a routine that included weekly sprint meetings, playtesting and occasional team building events.
+                It also didn't take them long to deepen their original idea and also create tons of different moodboards.
+                In the end they gathered every information they could find about raccoons, similar games and inspirations
+                as well as their moodboards and created their own wiki for their game project.
+                Even though the team had little to no problems working together, the core game idea had to be refined 
+                a handful of times to make sure the game could live up to its potential. After they completed their prototype 
+                (winter 2020) the team dove headfirst into the actual game developement process and so the production phase began.
+            </text>
+        </history>
+        <history>
+            <header>Production</header>
+            <text>
+                The Trashcan Gang started working on the actual game in early 2021, 
+                After a while the team had to go back to their original concept to fix a few holes in their gameplay and 
+                ultimately made their final concept bullet proof in late spring. They finally conceptualized what they envisioned 
+                and made to turn this vision into a game that people loved playing. The game ended up becoming a bright and 
+                colorful world, in which player would be able to create that chaos that they always wished to fabricate.
+                The final product will be presented on the 4th of Fabruary in 2022.
+            </text>
+        </history>
+    </histories>
+
+
+    <features>
+        <feature>
+            A chaotic but strategic gameplay
+        </feature>
+        <feature>
+            A hilariously stupid washing system
+        </feature>
+        <feature>
+            A colorful and cartoony level to explore
+        </feature>
+        <feature>
+            Exciting interactions between other players and enemies
+        </feature>
+        <feature>
+            Tons of weird items to steal
+        </feature>
+    </features>
+
+    <trailers>
+        <trailer>
+            <name>Trailer</name>
+            <youtube>lws8wo0ZqaU</youtube>
+        </trailer>
+        <trailer>
+            <name>Dev-Talk / Gameplay</name>
+            <youtube>Nlq0KJCcLeY</youtube>
+        </trailer>
+    </trailers>
+
+    
+    <widgets>
+      <steam>1969130</steam>
+      <itch>1383655</itch>
+    </widgets>
+</game>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>The Trashcan Gang</title>
+  <based-in>Salzburg, Austria</based-in>
+  <founding-date>2020</founding-date>
+  <website>https://portfolio.fh-salzburg.ac.at/projects/2022-trash-patrol</website>
+  <press-contact>
+    trash-patrol@unterderbruecke.de
+  </press-contact>
+
+  <address>
+    <line>
+      Urstein Süd 1
+    </line>
+    <line>
+      5412 Puch/Salzburg
+    </line>
+    <line>
+      Austria
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name></name>
+      <link>
+        <!-- URL starting with http or https -->
+      </link>
+    </social>
+  </socials>
+
+  <description>
+    The Trashcan Gang is a group of motivated students from the University of Applied Sciences in Salzburg, Austria. 
+    The team has consists of seven people: two Programmer, four 3D Artists and one Audio Artist. 
+  </description>
+
+  <history>
+    The team was formed during our first Semester of our masters degree at the Salzburg University of Applied Sciences.
+    From the first to the third semester, basically 1.5 years, we had to come up with a game project. 
+    After Hannah talked with Jan, they got Kerstin, Nessi (Tran Khiet Van Ho), Marcell and Jeannette on board.
+    Additionally, after looking for somebody to create the music and sound effects for our game, Lou (Lukas Schönwiese) from the
+    bachelors degree decided to join us as well.
+  </history>
+
+<!--
+  <trailers>
+    <trailer>
+      <name></name>
+      <youtube>-->
+        <!-- Video ID only, not the full URL --><!--
+      </youtube>
+    </trailer>
+  </trailers>
+  -->
+
+  <credits>
+    <credit>
+        <person>Hannah Flattinger</person>
+        <role>2D Artist, Project Management</role>
+    </credit>
+    <credit>
+      <person>Jan Mikusch</person>
+      <role>Programmer, Project Management</role>
+      <link>https://mikusch.at</link>
+    </credit>
+    <credit>
+        <person>Kerstin Hofer</person>
+        <role>Programmer</role>
+    </credit>
+    <credit>
+        <person>Tran Khiet Van Ho</person>
+        <role>3D Artist, Level Designer</role>
+    </credit>
+    <credit>
+        <person>Jeannette Schwalm</person>
+        <role>3D Artist, VFX Artist, Shader Artist</role>
+    </credit>
+    <credit>
+        <person>Marcell Tóth</person>
+        <role>3D Artist, Animator</role>
+    </credit>
+    <credit>
+        <person>Dominik Just</person>
+        <role>3D Artist (Helping Hand)</role>
+    </credit>
+    <credit>
+        <person>Maximilian Tomio</person>
+        <role>Programmer (Helping Hand)</role>
+    </credit>
+  </credits>
+</company>
